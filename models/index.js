@@ -1,6 +1,6 @@
 module.exports = {
-    Story: require("./Story"),
-    Summary: require("./Summary")
+    Article: require("./Article"),
+    Note: require("./Note")
   };
 
   // exports the models
